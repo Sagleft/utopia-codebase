@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Sagleft/utopia-codebase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Utopia Codebase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome, here you will find a set of projects from the Utopia Ecosystem community, which are independent projects or examples on the use of UtopiaAPI.
 
-### Markdown
+Here is a library of open-source code for the Utopia Ecosystem platform from the project community.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## C++
 
-```markdown
-Syntax highlighted code block
+* [utopia-iot](https://github.com/Sagleft/utopia-iot) - An example of creating an IOT-device for Utopia Ecosystem. You can build smart home elements with indicators built on Utopia client management.
 
-# Header 1
-## Header 2
-### Header 3
+## C#
 
-- Bulleted
-- List
+* [utopialib-csharp](https://github.com/Sagleft/utopialib-csharp) - C# library for Utopia Network API. Based on SharpDevelop 4.4.2; allows you to use the Utopia API in the Unity3D Engine, creating game projects, applications on this engine.
+* [utopia-3D-client](https://github.com/Sagleft/utopia-3D-client) - An example of building your own Utopia client in an application on Unity3D Engine. Based on utopialib-csharp.
+* [utopia-custom-cryptocards](https://github.com/Sagleft/utopia-custom-cryptocards) - utility for creating your own cryptocards.
+* [utopia-csharp-template](https://github.com/Sagleft/utopia-csharp-template) - C# ready-made MVP application template for starting the development of your utility, working with the Utopia Ecosystem API.
+* [utopia-paper-voucher](https://github.com/Sagleft/utopia-paper-voucher) - utility for generating paper vouchers that can be used for promotional purposes at events.
 
-1. Numbered
-2. List
+## PHP
 
-**Bold** and _Italic_ and `Code` text
+* [utopialib-php](https://github.com/Sagleft/utopialib-php) - the actively developed library for working with the Utopia API in PHP is a composer package. You can use it to build your sites, web applications and services.
+* [utopia-explorer](https://github.com/Sagleft/utopia-explorer) - Utopia Network Block Explorer.
+* [utopia-restful](https://github.com/Sagleft/utopia-restful) - Utopia Network RESTful API written in PHP. Lets you elevate your Utopia public API server.
+* [utopia-qr-chat](https://github.com/Sagleft/utopia-qr-chat) - Opportunity to access public chats of the Utopia ecosystem. Allows you to access Utopia chats without having to install a client and log in to your account.
+* [utopia-ticket-sale-example](https://github.com/Sagleft/utopia-ticket-sale-example) - An example of a small site selling tickets for an event for Crypton. Based on utopia-cryptonat.
+* [utopia-cryptonat](https://github.com/Sagleft/utopia-cryptonat) - Crypton Donation Library. Allows you to work with vouchers: create them, request their status, use and so on.
+* [utopia-faucet](https://github.com/Sagleft/utopia-faucet) - An example of creating a crane for distributing Cryptons. A database containing a table with vouchers is used.
+* [utopia-dynamic-group-cover](https://github.com/Sagleft/utopia-dynamic-group-cover) - dynamic cover for a group on VKontakte social network with Utopia Network statistics.
+* [utopia-auth](https://github.com/Sagleft/utopia-auth) - Example of user authorization on your web service in Utopia Network.
 
-[Link](url) and ![Image](src)
-```
+## JS / NodeJS
+* [utopia-webapp](https://github.com/Sagleft/utopia-webapp) - An example of a lightweight HTML5 application using the Utopia RESTful API.
+* [utopia-nodejs-api](https://github.com/Oocrop/utopia-nodejs-api) - NodeJS library for Utopia API.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Python
+* [PytopiaAPI](https://github.com/Dest0re/PytopiaAPI) - Utopia Ecosystem API for Python 3.
 
-### Jekyll Themes
+## Bash
+* [Utopia-CLI on CentOS 7](https://gist.github.com/Sagleft/c5e63889f192312823784401eac735bf) - Instructions for installing and configuring the Utopia Ecosystem client for working with the API in console mode using the CentOS example.
+* [Utopia-CLI on Ubuntu18.04](https://gist.github.com/Sagleft/645d094a9f728ae63480347c843b9b11) - autostart Utopia client in Headless Mode using Ubuntu as an example.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sagleft/utopia-codebase/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Чат в Telegram по Utopia:
+https://t.me/utopia_community
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Канал Utopia Community Tech в Telegram:
+https://t.me/utopia_community_tech
