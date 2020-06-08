@@ -29,9 +29,10 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-dynamic-group-cover](https://github.com/Sagleft/utopia-dynamic-group-cover) - dynamic cover for a group on VKontakte social network with Utopia Network statistics.
 * [utopia-auth](https://github.com/Sagleft/utopia-auth) - Example of user authorization on your web service in Utopia Network.
 
-## JS / NodeJS
+## JS / NodeJS / etc
 * [utopia-webapp](https://github.com/Sagleft/utopia-webapp) - An example of a lightweight HTML5 application using the Utopia RESTful API.
 * [utopia-nodejs-api](https://github.com/Oocrop/utopia-nodejs-api) - NodeJS library for Utopia API.
+* [utopia-deno](https://github.com/Sagleft/utopia-deno) - Deno library for Utopia API.
 
 ## Python
 * [PytopiaAPI](https://github.com/Dest0re/PytopiaAPI) - Utopia Ecosystem API for Python 3.
