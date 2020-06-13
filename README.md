@@ -44,6 +44,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 ## Go
 * [utopialib-go](https://github.com/Sagleft/utopialib-go) - Go library for Utopia API.
 
+---
 
 Чат в Telegram по Utopia:
 https://t.me/utopia_community
