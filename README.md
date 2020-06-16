@@ -46,8 +46,8 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 
 ---
 
-Чат в Telegram по Utopia:
+Telegram chat:
 https://t.me/utopia_community
 
-Канал Utopia Community Tech в Telegram:
+Utopia Community Tech channel:
 https://t.me/utopia_community_tech
