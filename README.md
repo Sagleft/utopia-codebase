@@ -16,6 +16,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-custom-cryptocards](https://github.com/Sagleft/utopia-custom-cryptocards) - utility for creating your own cryptocards.
 * [utopia-csharp-template](https://github.com/Sagleft/utopia-csharp-template) - C# ready-made MVP application template for starting the development of your utility, working with the Utopia Ecosystem API.
 * [utopia-paper-voucher](https://github.com/Sagleft/utopia-paper-voucher) - utility for generating paper vouchers that can be used for promotional purposes at events.
+* [utp-unity-asset](https://github.com/Sagleft/utp-unity-asset) - Unity-asset to work with the Utopia Ecosystem API.
 
 ## PHP
 
@@ -28,6 +29,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-faucet](https://github.com/Sagleft/utopia-faucet) - An example of creating a crane for distributing Cryptons. A database containing a table with vouchers is used.
 * [utopia-dynamic-group-cover](https://github.com/Sagleft/utopia-dynamic-group-cover) - dynamic cover for a group on VKontakte social network with Utopia Network statistics.
 * [utopia-auth](https://github.com/Sagleft/utopia-auth) - Example of user authorization on your web service in Utopia Network.
+* [diano-bot](https://github.com/Sagleft/diano-bot) - Bot for transporting content between messengers.
 
 ## JS / NodeJS / etc
 * [utopia-webapp](https://github.com/Sagleft/utopia-webapp) - An example of a lightweight HTML5 application using the Utopia RESTful API.
