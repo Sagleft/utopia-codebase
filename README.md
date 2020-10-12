@@ -18,6 +18,10 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-paper-voucher](https://github.com/Sagleft/utopia-paper-voucher) - utility for generating paper vouchers that can be used for promotional purposes at events.
 * [utp-unity-asset](https://github.com/Sagleft/utp-unity-asset) - Unity-asset to work with the Utopia Ecosystem API.
 
+## Java
+
+* [crypton-rate-app](https://github.com/Sagleft/crypton-rate-app) - A simple Android application for checking Crypton rate.
+
 ## PHP
 
 * [utopialib-php](https://github.com/Sagleft/utopialib-php) - the actively developed library for working with the Utopia API in PHP is a composer package. You can use it to build your sites, web applications and services.
