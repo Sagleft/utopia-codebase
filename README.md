@@ -49,6 +49,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 ## Bash
 * [Utopia-CLI on CentOS 7](https://gist.github.com/Sagleft/c5e63889f192312823784401eac735bf) - Instructions for installing and configuring the Utopia Ecosystem client for working with the API in console mode using the CentOS example.
 * [Utopia-CLI on Ubuntu18.04](https://gist.github.com/Sagleft/645d094a9f728ae63480347c843b9b11) - autostart Utopia client in Headless Mode using Ubuntu as an example.
+* [Utopia-cron-autostart](https://gist.github.com/Sagleft/e6b62ba9ece7a8fb24454b603ddab0c7) - how to configure the Utopia client to autorun on Linux, as well as to auto-resume the client if it crashes.
 
 ## Go
 * [utopialib-go](https://github.com/Sagleft/utopialib-go) - Go library for Utopia API.
