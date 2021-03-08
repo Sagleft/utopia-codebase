@@ -45,6 +45,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 
 ## Python
 * [PytopiaAPI](https://github.com/Dest0re/PytopiaAPI) - Utopia Ecosystem API for Python 3.
+* [crypto-business-cards](https://github.com/Sagleft/crypto-business-cards) - Project of hi-tech business cards on the Utopia P2P theme.
 
 ## Bash
 * [Utopia-CLI on CentOS 7](https://gist.github.com/Sagleft/c5e63889f192312823784401eac735bf) - Instructions for installing and configuring the Utopia Ecosystem client for working with the API in console mode using the CentOS example.
